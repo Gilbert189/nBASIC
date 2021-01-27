@@ -9,11 +9,11 @@ I made this as a challenge to myself that didn't know how to code an interpreter
 ```(C)``` means any character.
 | Syntax | Description |
 | --- | --- |
-| ```GOTO(N)``` | go to line (N) |
-| ```IF(O)THEN(N)``` | if (O) is true, go to line (N) |
-| ```PRINT(O)``` | print (O) |
+| ```GOTO(N)``` | go to line ```(N)``` |
+| ```IF(O)THEN(N)``` | if ```(O)``` is true, go to line ```(N)``` |
+| ```PRINT(O)``` | print ```(O)``` |
 | ```INPUT(C)``` | input string |
-| ```INT(C)``` | cast variable (C) to integer |
+| ```INT(C)``` | cast variable ```(C)``` to integer |
 | ```REM``` | Comment |
 | ```(C)=(O)``` | Variable assigment |
 ## Operation

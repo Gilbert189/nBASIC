@@ -1,6 +1,6 @@
 # nBASIC: a really, really basic BASIC interpreter
 
-The name derives from [uBASIC](http://dunkels.com/adam/ubasic/) from Adam Dunkels. Since u means micro, I named it nBASIC for nano BASIC. That means this BASIC is even more basic then it already is.
+The name derives from [uBASIC](http://dunkels.com/adam/ubasic/) from Adam Dunkels. Since u might mean micro, I named it nBASIC for nano BASIC. That means this BASIC is even more basic then it already is.
 
 I made this as a challenge to myself that didn't know how to code an interpreter the traditional way. Also, this is non-interactable.
 ## Syntax:
